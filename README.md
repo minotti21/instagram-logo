@@ -1,3 +1,13 @@
-Logo do instagram feito com meus conhecimentos em HTML e CSS
 
-![alt text](https://i.imgur.com/PmoOrzk.png)
+# Logo Instagram
+
+Logo do instagram feito para colocar em prática conceitos aprendidos.
+
+
+## Stack utilizada
+
+HTML e CSS
+
+## Demonstração
+
+![instagram](https://i.imgur.com/PmoOrzk.png)
